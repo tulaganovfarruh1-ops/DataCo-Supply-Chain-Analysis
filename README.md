@@ -1,3 +1,4 @@
+Data Source - https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
 In-Depth Analysis of the DataCo Smart Supply Chain
 Project Overview
 This project is a comprehensive exploratory and diagnostic analysis of the "DataCo Smart Supply Chain for Big Data Analysis" dataset from Kaggle. The goal was to move beyond surface-level metrics to uncover the root causes of major business challenges, demonstrating a full cycle of data analysis from data cleaning and transformation to statistical hypothesis testing.
